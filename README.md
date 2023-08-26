@@ -6,4 +6,4 @@ Topics covered:
 - JavaScript
 
 ## Result
-https://app.netlify.com/sites/cheery-crumble-854f61
+https://main--fancy-bonbon-566c95.netlify.app
