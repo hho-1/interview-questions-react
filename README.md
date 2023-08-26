@@ -6,4 +6,4 @@ Topics covered:
 - JavaScript
 
 ## Result
-https://app.netlify.com/sites/cheery-crumble-854f61/deploys/64c36b8e27ebb74ea1a4fe0a
+https://app.netlify.com/sites/cheery-crumble-854f61
